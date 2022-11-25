@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: */textolite/*
+
+Disallow: */index.html
+
+Disallow: */index.php
+
+Disallow: *?*
+
+Allow: /images/
+
+
+
+Host: https://sizeagency.art/
+
+Sitemap: https://sizeagency.art/sitemap.xml

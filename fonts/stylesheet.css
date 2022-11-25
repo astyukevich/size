@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'ArtegraSans';
+    src: url('ArtegraSans-Black.woff2') format('woff2'),
+        url('ArtegraSans-Black.woff') format('woff'),
+        url('ArtegraSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ArtegraSans';
+    src: url('ArtegraSans-Bold.woff2') format('woff2'),
+        url('ArtegraSans-Bold.woff') format('woff'),
+        url('ArtegraSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ArtegraSans';
+    src: url('ArtegraSans-Medium.woff2') format('woff2'),
+        url('ArtegraSans-Medium.woff') format('woff'),
+        url('ArtegraSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+ 
+@font-face {
+    font-family: 'ArtegraSans';
+    src: url('ArtegraSans-Light.woff2') format('woff2'),
+        url('ArtegraSans-Light.woff') format('woff'),
+        url('ArtegraSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ArtegraSans';
+    src: url('ArtegraSans-Regular.woff2') format('woff2'),
+        url('ArtegraSans-Regular.woff') format('woff'),
+        url('ArtegraSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
